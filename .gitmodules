@@ -1,0 +1,4 @@
+[submodule "ammaralsabba/Purchase-Requisition"]
+	path = ammaralsabba/Purchase-Requisition
+	url = git@github.com:ammaralsabba/Purchase-Requisition.git
+	branch = master
